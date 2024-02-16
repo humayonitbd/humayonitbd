@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **humayonforid44@gmail.com**
 
-<img src="./images/2597612.jpg" alt="humayonitbd" />
+<img src="./images/2597612.jpg" class="right h-200" alt="humayonitbd" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
